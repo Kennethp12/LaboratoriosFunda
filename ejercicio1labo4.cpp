@@ -25,6 +25,7 @@ int main ()
 else{
     cout << endl;
     cout << n << " no es divisible entre " << n2 << endl;
+    
 }
-
+return 0;
 }
