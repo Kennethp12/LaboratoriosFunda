@@ -25,6 +25,7 @@ else if (n>0) {
 else{
 cout << " El numero es 0" << endl;
 }
+    return 0;
 
 
 }
