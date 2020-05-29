@@ -42,8 +42,7 @@ int main ()
         cout << endl;
         cout << "El numero de caracteres es impar" << endl;
         cout << endl;
-        return 0;
     }
-    
+    return 0;
 
 }
