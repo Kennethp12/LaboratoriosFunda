@@ -20,7 +20,7 @@ else{
     cout << endl;
     cout << n << " es impar "  << endl;
 }
-
+return 0;
 }
 
 
