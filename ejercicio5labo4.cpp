@@ -28,13 +28,9 @@ int main ()
     else{
         cout << endl;
         cout << "La palabra ingresada no empieza ni termina con la misma letra" << endl;
-        
-        return 0;
+       
     }
-
-
-
-
-
+    
+    return 0;
 
 }
