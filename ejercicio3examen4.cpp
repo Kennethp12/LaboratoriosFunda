@@ -46,4 +46,5 @@ int main(){
         NotasArray(AlumNotas);
         Promedio(AlumNotas);
     }
+    return 0;
 }
